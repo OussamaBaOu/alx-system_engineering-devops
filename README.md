@@ -1,1 +1,1 @@
-the basics of shell
+the basics, perms and of shell
