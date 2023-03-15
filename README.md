@@ -1,1 +1,1 @@
-The basics, perms and redirections of shell
+# The shell
