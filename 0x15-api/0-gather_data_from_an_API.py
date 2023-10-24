@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-""" Python script that,for a given employee ID, returns info
-about his/her TODO list progress using JSONPlaceholder API """
+""" Rreturns info about list progress using JSONPlaceholder API """
 import requests
 import sys
 
